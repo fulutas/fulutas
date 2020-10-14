@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+![Hello 👋🏻](https://pbs.twimg.com/profile_banners/246181128/1585331817/600x200)
+
+
 <!--
 **fulutas/fulutas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Here are some ideas to get you started:
 
