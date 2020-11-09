@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ⚡
 
 ![Hello 👋🏻](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
