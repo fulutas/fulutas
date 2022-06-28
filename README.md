@@ -1,4 +1,4 @@
-## Hey 👋, I'm Furkan Ulutas  
+## <div align="center">Hey 👋, I'm Furkan Ulutas</div>  
   
 
 <a href="https://twitter.com/furkanulutasX" target="_blank">
