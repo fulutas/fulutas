@@ -21,8 +21,7 @@
 
 
 ### Glad to see you here!  
-I started my software adventure in February 2016. During this adventure, I continue on my way by developing websites and mobile applications as a freelance. I enjoy writing frontends, mainly JavaScript and CSS. I've been working mainly on Vue JS lately.  
-  
+I started my software adventure in 2016. In this adventure, I continue on my way by developing website applications. I enjoy writing frontends, mainly JavaScript and CSS. I've been working mainly on Vue JS lately.  
 
 <br/>  
 
