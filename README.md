@@ -16,16 +16,11 @@
 <a href="https://medium.com/@furkanulutas" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-  
-
-
 
 ### Glad to see you here!  
-I started my software adventure in 2016. In this adventure, I continue on my way by developing website applications. I enjoy writing frontends, mainly JavaScript and CSS. I've been working mainly on Vue JS lately.  
 
 <br/>  
 
-  
 
 - 🌍 I'm based in Istanbul, Turkey  
   
