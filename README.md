@@ -8,7 +8,7 @@
 - 🌍 I'm based in Istanbul, Turkey  
   
 
-- ✉️ You can contact me at ulutasfurkan@gmail.com  
+- ✉️ You can contact me at [Twitter](https://twitter.com/furkanulutasX)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
