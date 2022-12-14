@@ -11,7 +11,7 @@
 - ✉️ You can contact me at ulutasfurkan@gmail.com  
   
 
-- ❓ Ask me about anything related to MEVN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 - 👯 I’m looking to collaborate on development in software  
