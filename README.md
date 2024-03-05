@@ -2,8 +2,6 @@
 
 ### Glad to see you here!  
 
-<br/>  
-
 
 - 🌍 I'm based in Istanbul, Turkey  
   
