@@ -10,5 +10,4 @@
 
 #### Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=fulutas&show_icons=true&theme=dark&hide_rank=true" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulutas&hide_progress=true&theme=dark" align="left" />
