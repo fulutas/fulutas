@@ -8,6 +8,4 @@
 - ✉️ You can contact me at [Twitter](https://twitter.com/furkanulutasX)  
   
 
-#### Github Stats  
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulutas&hide_progress=true&theme=dark" align="left" />
