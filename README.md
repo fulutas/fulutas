@@ -3,9 +3,10 @@
 
 - 🌍 I'm based in Istanbul, Turkey
 
-- 👉🏻 I love using React, React Native, NextJS, Vue, Tailwind CSS!
+- 👉🏻 I love using React, React Native/Expo, Next JS, Vue, Webpack, Rsbuild, Tailwind, SASS!
 
 - ✉️ You can contact me at [Twitter](https://twitter.com/furkanulutasX)  
+
   
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulutas&hide_progress=true&theme=dark" align="left" />
