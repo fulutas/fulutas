@@ -3,7 +3,7 @@
 
 - 🌍 I'm based in Istanbul, Turkey
 
-- 👉🏻 I love using JavaScript, React, React Native/Expo, Next JS, Vue, Webpack, MFE, Tailwind, SASS!
+- 👉🏻 I love using JavaScript, React.js, React Native/Expo, Next.js, Vue.js, Webpack, MFE, Tailwind, SASS!
 
 - ✉️ You can contact me at [Twitter](https://twitter.com/furkanulutasX)  
 
